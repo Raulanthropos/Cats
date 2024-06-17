@@ -1,0 +1,20 @@
+.cat-image {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+  }
+  
+  .cat-card {
+    max-width: 300px;
+  }
+
+  .favorite-button {
+    text-align: center;
+    background: lightgreen;
+  }
+
+  .favorite-button:hover {
+  cursor: pointer;
+  scale: 1.1;
+  }
+  
